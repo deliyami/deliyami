@@ -15,7 +15,10 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white"/>  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white"/>  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white"/>  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white"/>  <img src="https://img.shields.io/badge/pixiv-0096FA?style=for-the-badge&logo=pixiv&logoColor=white"/>
 </p>
+
+## deliciously State
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deliyami&show_icons=true&theme=default&icon_color=F49859&title_color=F49859&border_color=F49859) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deliyami&langs_count=3&border_color=F49859&title_color=F49859)](https://github.com/deliyami/github-readme-stats) 
+
 
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&reversal=true&color=F49859&height=300)
