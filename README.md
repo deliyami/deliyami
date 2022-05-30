@@ -19,6 +19,7 @@
 ## deliciously State
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deliyami&langs_count=7&layout=compact&border_color=F49859&title_color=F49859)](https://github.com/deliyami/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deliyami&show_icons=true&theme=default&icon_color=F49859&title_color=F49859&border_color=F49859)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deliyami&&exclude_forks=false&langs_count=7&layout=compact&border_color=F49859&title_color=F49859)](https://github.com/deliyami/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deliyami&show_icons=true&theme=default&icon_color=F49859&title_color=F49859&border_color=F49859)
 
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&reversal=true&color=F49859&height=300)
